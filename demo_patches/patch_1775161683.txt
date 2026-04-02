@@ -1,0 +1,1 @@
+Simulated patch applied to fix memory leak in production database connection pool.
